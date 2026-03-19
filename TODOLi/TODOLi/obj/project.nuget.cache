@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VgEzZp+/AuI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mukona Mamaila\\source\\repos\\droptest\\TODOLi\\TODOLi\\TODOLi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mukona Mamaila\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
