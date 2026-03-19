@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("droptest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72900be47248edb53a628cecc4a5e9c18afa2769")]
 [assembly: System.Reflection.AssemblyProductAttribute("droptest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("droptest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
